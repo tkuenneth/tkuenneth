@@ -5,5 +5,9 @@ Being a child of the 1970s my first encounter with programming was in the era of
 #### Find me all around the web
 
 <p align="left">
-<a rel="me" href="https://snapp.social/@tkuenneth"><img src="assets/mastodon,svg" /></a>
+<a rel="me" href="https://snapp.social/@tkuenneth"><img src="assets/mastodon.svg" alt="Mastodon" /></a>
+<a href="https://www.linkedin.com/in/thomaskuenneth/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://dev.to/tkuenneth"><img src="assets/devdotto.svg" alt="dev.to" /></a>
 </p>
+
+Thank you very much [Simple Icons](https://simpleicons.org/) for providing above icons ❤️
