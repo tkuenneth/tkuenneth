@@ -2,10 +2,10 @@
 
 <table style="width: 100%; border: none">
 <tr>
-<td valign="top" style="width: 20%; border: none">
+<td align="center" valign="top" style="width: 15%; border: none">
 <a href="https://developers.google.com/community/experts/directory/profile/profile-thomas-kunneth"><img src="assets/GDE_Badge.png" style="border-radius: 50%; border: 1px solid lightGray;"/></a>
 </td>
-<td valign="center" style="border: none">
+<td valign="center" style="border: none;">
 <ul>
 <li>Mobile computing enthusiast</li>
 <li>Started developing Android apps in 2009</li>
