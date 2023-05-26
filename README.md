@@ -12,4 +12,12 @@ You can get the book from the publisher [Packt Publishing](https://www.packtpub.
 
 #### Android 11
 
-I also wrote a German book about Android development. The first edition was published in 2011. It has seen 6 editions. While it is now out of print, the latest edition is available online completely for free: https://openbook.rheinwerk-verlag.de/android11/
+I also wrote a German book about Android development. The first edition was published in 2011. It has seen six editions. While it is now out of print, the latest edition is available online completely for free: https://openbook.rheinwerk-verlag.de/android11/
+
+#### Einstieg in Eclipse / Eclipse
+
+Back in 2007, German publisher Galileo Computing (later Rheinwerk Verlag) published the first edition of my book about the Eclipse IDE. There have been five editions. The successor was published by Hanser in 2018.
+
+#### Java für Windows
+
+My first book was published in 2006. It shows how to make Java apps that look and behave more like native Windows apps.
